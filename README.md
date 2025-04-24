@@ -1,16 +1,30 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**ThiagoRocha21/ThiagoRocha21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Desenvolvedor Back-end | Banco de dados | Pacote Office 
+  
+  Meu nome é Thiago, tenho 20 anos e estou no 5º período do curso ciência da computação, sou bem alegre, comunicativo, organizado e gosto bastante de novos desafios. 
+  
+  No momento eu trabalho na BR Super Carga como suporte técnico, atualizando nossos carregadores, atualizando planilhas e auxiliando nossos clientes em qualquer dúvida ou dificuldade.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Linguagens: Java, Python, SQL, Dart
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Ferramentas: VS Code, Pycharm, PostgreSQL, Flutter.
+</p>
+
+<p align="left">
+  💌 Você pode falar comigo por aqui: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:thiagobcrocha2110@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/thiago-de-barros-c-rocha-9b846a296" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5583996994604" alt="WhatsApp"/></a>
+</p>
