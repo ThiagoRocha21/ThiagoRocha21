@@ -3,7 +3,7 @@
 <p align="left"> 
   Desenvolvedor Back-end | Banco de dados | Pacote Office 
   
-  Meu nome é Thiago, tenho 20 anos e estou no 5º período do curso ciência da computação, sou bem alegre, comunicativo, organizado e gosto bastante de novos desafios. 
+  Meu nome é Thiago, tenho 20 anos e estou no 5º período do curso ciência da computação. Sou bem alegre, comunicativo, organizado e gosto bastante de novos desafios. 
   
   No momento eu trabalho na BR Super Carga como suporte técnico, atualizando nossos carregadores, atualizando planilhas e auxiliando nossos clientes em qualquer dúvida ou dificuldade.
 </p>
