@@ -1,5 +1,3 @@
-![Ilustração de um computador](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
-
 ## Thiago Rocha
 
 Desenvolvedor Back-end | Banco de Dados | Pacote Office
