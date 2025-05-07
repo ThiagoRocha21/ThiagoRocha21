@@ -16,7 +16,6 @@ No momento, trabalho na **BR Super Carga** como suporte técnico, atualizando no
 - VS Code
 - Pycharm
 - PostgreSQL
-- Flutter
 
 ### 💌 Você pode falar comigo por aqui:
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-de-barros-c-rocha-9b846a296)
