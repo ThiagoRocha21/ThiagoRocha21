@@ -26,4 +26,9 @@
   </a>
 </div>
 
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/ThiagoRocha21/ThiagoRocha21/output/snake.svg" alt="Snake animation" />
+  
+</div>
 
