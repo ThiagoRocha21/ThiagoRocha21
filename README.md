@@ -21,17 +21,9 @@
 ###
 
 <div align="left">
-  <a href="wa.me/5583996994604" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/thiago-de-barros-c-rocha-9b846a296/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
-###
 
-![snake gif](https://github.com/ThiagoRocha21/ThiagoRocha21/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.verce1.app/api/pin/?username=ThiagoRocha21&repo=ThiagoRocha21&theme=react)](https://github.com/ThiagoRocha/ThiagoRocha)
-###
