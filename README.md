@@ -1,22 +1,40 @@
-## Thiago Rocha
+<h2 align="left">Opa, Meu nome é Thiago!</h2>
 
-Desenvolvedor Back-end | Banco de Dados | Pacote Office
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoRocha21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoRocha21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" img width="30" alt="sql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+</div>
 
-Meu nome é Thiago, tenho 20 anos e estou no 5º período do curso Ciência da Computação. Sou bem alegre, comunicativo, organizado e gosto bastante de novos desafios.
+###
 
-No momento, trabalho na **BR Super Carga** como suporte técnico, atualizando nossos carregadores, atualizando planilhas e auxiliando nossos clientes em qualquer dúvida ou dificuldade.
+<div align="left">
+  <a href="wa.me/5583996994604" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/thiago-de-barros-c-rocha-9b846a296/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-### 🦄 Linguagens
-- Java
-- Python
-- SQL
-- Dart
+###
 
-### 💼 Ferramentas
-- VS Code
-- Pycharm
-- PostgreSQL
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiagoRocha21/ThiagoRocha21/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThiagoRocha21/ThiagoRocha21/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ThiagoRocha21/ThiagoRocha21/output/pacman-contribution-graph.svg">
+</picture>
 
-### 💌 Você pode falar comigo por aqui:
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-de-barros-c-rocha-9b846a296)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white)](https://wa.me/5583996994604)
+###
